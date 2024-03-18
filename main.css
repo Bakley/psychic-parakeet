@@ -1,0 +1,32 @@
+body {
+    font-family: 'Helvatica neue';
+  }
+
+header {
+  max-width: 75%;
+}
+
+
+.anything {
+    background-color: black;
+    width: 300px;
+    height: 42px;
+    margin: 10px 15px 20px 5px;
+    padding: 10px;
+    border-radius: 4%;
+}
+
+.chat-box {
+  margin: 10px 15px 20px 5px;
+  padding: 10px;
+
+}
+
+.anything {
+  background-color: blue;
+  width: 300px;
+  height: 42px;
+  margin: 10px 15px 20px 5px;
+  padding: 10px;
+  border-radius: 4%;
+}
